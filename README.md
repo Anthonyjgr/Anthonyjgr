@@ -19,7 +19,61 @@
   
 
 - As a curious fact, I love music and I play various instruments, I also really like sports and I played baseball until I was 16, currently in winter I snowboard.🏂⚾🎸  
-  
+
+
+  Here's an improved version of your GitHub profile introduction:
+
+---
+
+### Hi there, I'm Anthony Guzmán! 👋
+
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer with a keen interest in creating high-quality, innovative technological solutions. Here's a bit about me:
+
+---
+
+### About Me
+- **Full Stack Developer** with experience in **3D web applications** 🚀
+- Focused on building **efficient, scalable, and user-friendly applications**
+- Continuously learning and exploring new technologies to enhance my skills
+
+---
+
+### My Expertise
+- Specialized in the **development and integration of 3D content** optimized for web and mobile applications 🆕
+- Proficient in a range of technologies including **React, Node.js, PHP**, and more
+- Strong background in both **frontend and backend development**
+
+---
+
+### What I Love
+- **Proactive and collaborative team member**, always ready to contribute innovative ideas
+- Thrive in **team environments** that foster creativity and continuous learning
+- Passionate about **music** (I play various instruments) and **sports** (played baseball until 16, now enjoy snowboarding in winter) 🏂⚾🎸
+
+---
+
+### Let's Connect!
+- **Email:** anthonyjgr28@gmail.com
+- **LinkedIn:** [Anthony Guzmán](https://www.linkedin.com/in/anthony-guzman-840449135/)
+- **Portfolio:** [Anthony's Portfolio](https://anthony-guzman-portfolio.netlify.app/)
+- **GitHub:** [GitHub Profile](https://github.com/Anthonyjgr)
+
+Feel free to check out my repositories and projects. I'm always open to feedback, collaboration, and new opportunities. Let's build something amazing together!
+
+---
+
+### Skills & Technologies
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express, PHP, MongoDB, Mongoose
+- **3D Development:** Integration of 3D content for web and mobile
+
+---
+
+Thanks for visiting my profile! 😊
+
+---
+
+This version organizes the information in a clear and professional manner while highlighting your skills, passions, and openness to collaboration. Feel free to adjust any details as needed!
 
 <br/>  
 
